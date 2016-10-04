@@ -13,7 +13,7 @@
 		"mocha": "*"
 	},
 	"dependencies": {
-		"google-images": "*",
+		"google-images": "^1.0.0",
 		"magician": "~0.1.1"
 	},
 	"license": "MIT",
